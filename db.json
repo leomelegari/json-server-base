@@ -13,6 +13,13 @@
       "name": "Angela Dias de Carvalho",
       "age": 22,
       "id": 2
+    },
+    {
+      "email": "leonardomelegari@hotmail.com",
+      "password": "$2a$10$YJeWwAZ2MmqSVwq78qFXo.YLzKtXw4iv6FjmdEdjtTBdJhOGnyLVy",
+      "name": "Leonardo",
+      "age": 26,
+      "id": 3
     }
   ],
   "games": [
